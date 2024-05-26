@@ -10,10 +10,13 @@ This project analyzes the stock prices of Zomato using Python libraries like Pan
 
 ## Setup Instructions
 
-1. Clone the repository:
+
+1.Clone the repository:
+   
    ```bash
    git clone https://github.com/your-username/Zomato_Stock_Analysis.git
    cd Zomato_Stock_Analysis
+   ```
    
 2.Install the required packages:
 
