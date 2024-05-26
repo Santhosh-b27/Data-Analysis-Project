@@ -15,3 +15,12 @@ This project analyzes the stock prices of Zomato using Python libraries like Pan
    ```bash
    git clone https://github.com/your-username/Zomato_Stock_Analysis.git
    cd Zomato_Stock_Analysis
+#### 3. **Jupyter Notebook for Analysis**
+
+In the `notebooks` directory, create a Jupyter notebook named `Zomato_Stock_Analysis.ipynb`. Here's an improved and well-structured version of your analysis code:
+
+```python
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
